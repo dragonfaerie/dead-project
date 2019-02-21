@@ -1,0 +1,28 @@
+body {
+  background-color: #bada55;
+}
+
+h1{
+  color: #550055;
+  font-size: 30px;
+}
+
+a{
+  font-size: 20px;
+  color: #555555;
+}
+
+.grid-container {
+  display: grid;
+  background-color: #98b833;
+  padding: 10px;
+  grid-column-gap: 50px;
+}
+
+.grid-item {
+  background-color: #dcfc77;
+  border: 1px solid #550055;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
